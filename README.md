@@ -15,6 +15,7 @@ The details are shown in our
 
 Crack dataset is available at https://docs.ultralytics.com/datasets/segment/crack-seg/
 
+GC10-DET dataset is available at https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets
 
 ## Training
 Most of training configurations can change in the "Train settings" section of ultralytics/cfg/default.yaml. 

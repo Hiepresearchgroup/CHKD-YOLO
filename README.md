@@ -1,4 +1,4 @@
-# YOLO-MCHKD: A Lightweight Crack Detection Model with Cross-head Knowledge Distillation
+# YOLO-CHKD: A Lightweight Crack Detection Model with Cross-head Knowledge Distillation
 
 This repository contains the source code for the paper. The complete implementation will be made publicly available upon acceptance.
 
